@@ -1,0 +1,13 @@
+
+
+*{width: 90%;}
+h1 {color: red;}
+.uno{color: pink;}
+.dos{color: darkgoldenrod;}
+
+#tt_segundo{border: 2px solid red;}
+.container-add{
+    border: 2px solid rgba(19, 1, 49, 0.89);
+    width: 50%;
+    margin: 50px auto;
+}
